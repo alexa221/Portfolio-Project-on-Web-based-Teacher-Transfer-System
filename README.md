@@ -11,13 +11,6 @@ I'd like to express my gratitude to everyone who helped me finish this project s
 - [@Alexander Takele Mengesha](https://www.github.com/alexa221)
   
   
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| 
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
 
 # Hi, I'm Alexander Takele Mengesha! 👋
 
@@ -49,8 +42,9 @@ I've learned how to use technology, how to commit to a project, how to collabora
 
 
 ## Screenshots
+## System Login Page
+![App Screenshot](https://raw.githubusercontent.com/alexa221/Portfolio-Project-on-Web-based-Teacher-Transfer-System/main/21.PNG)
 
-![App Screenshot](https://via.placeholder.com/468x300?https://imgur.com/1UkLb8x)
 
 
 ## Tech Stack
